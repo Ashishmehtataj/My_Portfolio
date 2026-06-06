@@ -1,0 +1,66 @@
+[
+    {
+        "title":"HTML5",
+        "imageSrc":"HTML5.png"
+    },
+    {
+        "title":"CSS5",
+        "imageSrc":"CSS3.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"JS.png"
+    },
+    {
+        "title":"React",
+        "imageSrc":"React.png"
+    },
+    {
+        "title":"Redux Toolkit",
+        "imageSrc":"Redux.png"
+    },
+    {
+        "title":"Tailwind CSS",
+        "imageSrc":"Tailwind.png"
+    },
+    {
+        "title":"Bootstrap",
+        "imageSrc":"Bootstrap.jpg"
+    },
+    {
+        "title":"Material UI",
+        "imageSrc":"MUI.png"
+    },
+    {
+        "title":"Axios",
+        "imageSrc":"Axios.jpg"
+    },
+    {
+        "title":"Git and Github",
+        "imageSrc":"Git and Github.jpg"
+    },
+    {
+        "title":"Vercel",
+        "imageSrc":"Vercel.png"
+    },
+    {
+        "title":"Netlify",
+        "imageSrc":"netlify.png"
+    },
+    {
+        "title":"Cypress",
+        "imageSrc":"Cpress.jpg"
+    },
+    {
+        "title":"C Programming Language",
+        "imageSrc":"C.png"
+    },
+    {
+        "title":"C++ Programming Language",
+        "imageSrc":"C++.png"
+    },
+    {
+        "title":"Java Programming Language",
+        "imageSrc":"java.png"
+    }
+]

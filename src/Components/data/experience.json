@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "role": "Java Programming Tutor",
+        "organisation": "Inditechfied",
+        "starDate": "Sep 2022",
+        "endDate": "Nov 2022",
+        "location": "Moradabad",
+        "experiences":[
+            "Delivered Java Programming fundamentals, covering variables, loops, functions, and arrays enhancing students' foundational skills.",
+            "Explained Object-Oriented Programming (OOP) concepts and core programming principles."
+        ],
+        "imageSrc":"/inditechfiled/jpg"
+    }
+]
