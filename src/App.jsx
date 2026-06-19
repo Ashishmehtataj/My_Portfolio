@@ -9,7 +9,19 @@ import "aos/dist/aos.css"
 import { useEffect } from "react"
 import ScrollToTop from "./Components/ScrollToTop";
 
+
+
 function App() {
+
+   useEffect(() => {
+        try {
+            const audio = new Audio("./assets/Mehta.mp3"); 
+            audio.play();
+        } catch (e) {
+            console.log("Error playing audio:", e);
+        }
+    }, []);
+
   useEffect(()=>{
     Aos.init()
   },[])
