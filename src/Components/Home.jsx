@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../pdf/Ashish_Mehta_Resume.pdf'
+import pdf from '../pdf/MehtaResume.pdf'
 import Typed from 'typed.js'
 import { useEffect,useRef } from 'react'
 // import hero from './data/hero.json'
@@ -24,7 +24,7 @@ const Home = () => {
         data-aos='fade-up-right'
         data-aos-duration="1000">
           <h1 ref={typedRef}></h1>
-          <a href={pdf} download="Ashish_Mehta_Resume.pdf" className="btn btn-outline-warning">
+          <a href={pdf} download="MehtaResume.pdf" className="btn btn-outline-warning">
             Download Resume
           </a>
         </div>
