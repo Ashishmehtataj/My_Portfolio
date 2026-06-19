@@ -20,8 +20,8 @@ const Projects = () => {
                     <h5 className="card-title text-center">{data.title}</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
                     <div className='d-flex justify-content-around'>
-                      <a href={data.demo} className="btn btn-primary ">Demo</a>
-                      <a href={data.source} className="btn btn-warning ">Source</a>
+                      <a href={data.demo} className="btn btn-primary " target='_blank'>Demo</a>
+                      <a href={data.source} className="btn btn-warning " target='_blank'>Source</a>
                     </div>
 
                   </div>

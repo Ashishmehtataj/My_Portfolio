@@ -2,37 +2,37 @@
     {
         "key":1,
         "title": "AI Assistance",
-        "imageSrc": "https://cdn.pixabay.com/photo/2015/09/18/19/03/forest-944662_1280.jpg",
-        "demo":"www.exapmle.com",
-        "source":"www.github.com"
+        "imageSrc": "./assets/AI.jpg",
+        "demo":"https://advancedvirtualassistant.netlify.app/",
+        "source":"https://github.com/Ashishmehtataj/AIProject"
     },
     {
         "key":2,
         "title":"Portfolio",
-        "imageSrc":"",
+        "imageSrc":"./assets/Portfolio.jpg",
         "demo":"",
-        "source":""
+        "source":"https://github.com/Ashishmehtataj/My_Portfolio"
     },
     {
         "key":3,
         "title":"Receip Search",
-        "imageSrc":"",
-        "demo":"",
-        "source":""
+        "imageSrc":"./assets/Recepis.jpg",
+        "demo":"https://food-recipe-sand-pi.vercel.app/",
+        "source":"https://github.com/Ashishmehtataj/Food-Recipe"
     },
     {
         "key":4,
-        "title":"Audio and Video Coll ",
-        "imageSrc":"",
-        "demo":"",
-        "source":""
+        "title":"weather App",
+        "imageSrc":"./assets/Weather.png",
+        "demo":"https://weather-app-xi-ashy-68.vercel.app/",
+        "source":"https://github.com/Ashishmehtataj/WeatherApp"
     },
     {
         "key":5,
-        "title":"Notes and to-do App",
-        "imageSrc":"",
-        "demo":"",
-        "source":""
+        "title":"To-Do App",
+        "imageSrc":"./assets/DoTo.jpg",
+        "demo":"https://todoappusingjs.vercel.app/",
+        "source":"https://github.com/Ashishmehtataj/todoappusingjs"
     }
 
 ]
