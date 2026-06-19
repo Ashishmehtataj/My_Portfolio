@@ -9,7 +9,7 @@
     {
         "key":2,
         "title":"Portfolio",
-        "imageSrc":".jpg/assets/Portfolio.",
+        "imageSrc":"./assets/Portfolio.jpg",
         "demo":"https://my-portfolio-rho-blush-25.vercel.app/",
         "source":"https://github.com/Ashishmehtataj/My_Portfolio.git"
     },

@@ -15,7 +15,7 @@ function App() {
 
    useEffect(() => {
         try {
-            const audio = new Audio("./assets/Mehta.mp3"); 
+            const audio = new Audio("./Mehta.mp3"); 
             audio.play();
         } catch (e) {
             console.log("Error playing audio:", e);
